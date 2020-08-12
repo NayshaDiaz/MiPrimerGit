@@ -20,3 +20,8 @@ body
 {
     font-size: 20px;
 }
+
+#cabecera-banner{
+    color: darkcyan;
+    background-color: black;
+}
