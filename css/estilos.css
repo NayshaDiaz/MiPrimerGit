@@ -22,3 +22,22 @@ body
     font-size: 20px;
 }
 
+#cabecera-banner{
+    color: darkcyan;
+    background-color: black;
+    width: 100%;
+    position: relative;
+    display: inline-block;
+    margin: 0px 0px 10px 0px;
+    padding: 50px;
+    font-size: 40px;
+    -webkit-box-shadow: 10px 50px 77px -27px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 50px 77px -27px rgba(0,0,0,0.75);
+    box-shadow: 10px 50px 77px -27px rgba(0,0,0,0.75);
+}
+#cabecera-banner span{
+    font-size: 20px;
+    display: flex;
+    padding: 10px 0px;
+    color: #ffd481;
+}
